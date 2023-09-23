@@ -39,28 +39,45 @@ I was also able to get the KPI's for this analysis using the Pivot table
 
 
 #### BUSINESS OBJECTIVES SOLUTION 
-**WHAT CITY AND BRANCH HAS MOST TOTAL SPENDING**
+**WHAT CITY HAVE THE HIGHEST SALES AND PROFIT**
 The results is shown in the pivot table and chart below:
 
-WHAT TIME DO THEY NORMALLY HAVE HIGH SALES
+**WHAT BRANCH HAVE THE HIGHEST SALES AND PROFIT**
 The results is shown in the pivot table and chart below:
 
-WHAT PRODUCT LINE HAS THE HIGHEST PROFIT AND WHICH ONE IS THE LOWEST 
+**WHAT TIME DO THEY NORMALLY HAVE HIGH SALES**
 The results is shown in the pivot table and chart below:
 
-PERCENTAGE OF PAYMENT METHOD USED BY CUSTOMERS 
+**WHAT PRODUCT LINE HAVE THE HIGHEST PROFIT AND WHICH ONE IS THE LOWEST**
 The results is shown in the pivot table and chart below:
 
-THE MONTH WITH MOST SALES
+**PERCENTAGE OF PAYMENT METHOD USED BY THE CUSTOMERS**
 The results is shown in the pivot table and chart below:
 
-PRODUCT LINE BY GENDER
+**THE MONTH WITH THE MOST SALES**
 The results is shown in the pivot table and chart below:
 
-PRODUCT LINE WITH THE MOST TAX PAYMENT 
+**GENDER BY THE COUNT OF PRODUCT LINE PURCHASED**
 The results is shown in the pivot table and chart below:
 
-PRODUCT LINE BY UNIT PRICE 
+**PRODUCT LINE WITH THE MOST TAX5% PAYMENT**
 The results is shown in the pivot table and chart below:
+
+**COUNT OF CUSTOMER TYPE**
+The results is shown in the pivot table and chart below:
+
+
+#### INSIGHTS 
+- **Naypyitaw** have the most sales and also generate most profits, while **Mandalay** have the least sales and profits.
+- The product line **Food and beverages** had the most profits from all the products line available, while the least profitable product line are **Health and beauty**.
+- **Supermarket C branch** have the most sales and also generate most profits, while the **B branch** have the least sales and profits.
+- Sales are highest by the **19:00** hours, at least by the **20:00** hours.
+- The month of **January** is the period with the highest sales followed by **March**, then the least month was **February**. 
+- Product line was purchased more by the females
+- There are more **Member** customer type compare to the **Normal** customer type.
+- Customer made use of the **Ewallet** payment method than any other method.
+
+  ### RECOMMENDATION 
+
 
 
