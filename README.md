@@ -38,6 +38,7 @@ Next I created pivot table where business objectives are being answered. I was a
 
 
 I was also able to get the KPI's for this analysis using the Pivot table
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~2.png) 
 
 
 #### BUSINESS OBJECTIVES SOLUTION 
