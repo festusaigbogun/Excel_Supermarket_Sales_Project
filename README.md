@@ -143,7 +143,6 @@ Based on the insights from the dataset, I recommend the following business actio
 10. **Cost Management**:
     - Continuously monitor costs and expenses to ensure that your profits remain healthy even in the most profitable areas.
 
-These recommendations should help you make informed decisions to enhance your business's overall performance.
 
 
 
