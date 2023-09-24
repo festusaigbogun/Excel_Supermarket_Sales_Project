@@ -51,6 +51,8 @@ The results is shown in the pivot table and chart below:
 **WHAT BRANCH HAVE THE HIGHEST SALES AND PROFIT**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_3iMWIU3478~3.png) 
 
 **WHAT TIME DO THEY NORMALLY HAVE HIGH SALES**
 
