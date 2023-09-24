@@ -91,6 +91,8 @@ The results is shown in the pivot table and chart below:
 **COUNT OF CUSTOMER TYPE**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_nKNlXJWsyo~4.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_v1AxMJ2sXk~2.png) 
 
 
 #### INSIGHTS 
