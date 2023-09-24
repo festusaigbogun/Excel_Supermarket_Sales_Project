@@ -38,7 +38,7 @@ Using **Power Query Editor** I was also able to change the format of the Time co
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
 
 #### PIVOT TABLE
-Next I created pivot table where business objectives are being answered. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
+Next I created pivot table where I solved all business objectives. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/nKF6mQO0lR~2.png) 
 
 
