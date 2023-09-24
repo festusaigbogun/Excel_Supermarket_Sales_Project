@@ -32,7 +32,8 @@ I applied **conditional formatting** to the 'RATING' column, assigning a green u
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_Sw7RvHzNCR~2.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_oMUeMfFe5u~2.png) 
 
-Using **Power Query Editor** I was also able to change the format of the Time column from **Decimal Number** to **Time** format. If this was not done Excel would take the time column as as normal decimal number values. I also change the Date column from **Date/Time** format to the normal **Date** format. With the power query editor I was able to check if all the columns were properly put In their right formats. 
+By leveraging **Power Query Editor**, I successfully transformed the 'Time' column from a **Decimal Number** format to **Time** format. This transformation was crucial to prevent Excel from interpreting the time column as standard decimal values. Additionally, I converted the 'Date' column from **Date/Time** format to a more conventional **Date** format. Utilizing Power Query Editor allowed me to ensure that all columns were correctly formatted as needed.
+
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_uiwJlR3GU7~2.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_wNyh8CU57e~2.png) 
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
