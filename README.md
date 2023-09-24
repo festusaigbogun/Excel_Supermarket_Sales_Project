@@ -32,14 +32,14 @@ I applied **conditional formatting** to the 'RATING' column, assigning a green u
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_Sw7RvHzNCR~2.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_oMUeMfFe5u~2.png) 
 
-By leveraging **Power Query Editor**, I successfully transformed the 'Time' column from a **Decimal Number** format to **Time** format. This transformation was crucial to prevent Excel from interpreting the time column as standard decimal values. Additionally, I converted the 'Date' column from **Date/Time** format to a more conventional **Date** format. Utilizing Power Query Editor allowed me to ensure that all columns were correctly formatted as needed.
+By leveraging **Power Query Editor**, I successfully transformed the TIME column from a **Decimal Number** format to **Time** format. This transformation was crucial to prevent Excel from interpreting the time column as standard decimal values. Additionally, I converted the DATE column from **Date/Time** format to a more conventional **Date** format. Utilizing Power Query Editor allowed me to ensure that all columns were correctly formatted as needed.
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_uiwJlR3GU7~2.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_wNyh8CU57e~2.png) 
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
 
 #### PIVOT TABLE
-Next I created pivot table where I solved all business objectives. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
+Next, I generated a pivot table to address all the business objectives, and I effectively employed the DAX formula to compute the 'PROFIT' column by subtracting the sum of the 'TOTAL' column from the sum of the 'COGS' column.
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/nKF6mQO0lR~2.png) 
 
 
