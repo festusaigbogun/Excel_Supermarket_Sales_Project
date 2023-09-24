@@ -83,6 +83,8 @@ The results is shown in the pivot table and chart below:
 **PRODUCT LINE WITH THE MOST TAX5% PAYMENT**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_nKNlXJWsyo~3.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_RAJrnjZchO~3.png) 
 
 **COUNT OF CUSTOMER TYPE**
 
