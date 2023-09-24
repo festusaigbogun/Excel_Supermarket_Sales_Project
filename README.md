@@ -43,36 +43,45 @@ I was also able to get the KPI's for this analysis using the Pivot table
 
 #### BUSINESS OBJECTIVES SOLUTION 
 **WHAT CITY HAVE THE HIGHEST SALES AND PROFIT**
+
 The results is shown in the pivot table and chart below:
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~3.png) 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_5Raj3NogAj~2.png) 
 
 **WHAT BRANCH HAVE THE HIGHEST SALES AND PROFIT**
+
 The results is shown in the pivot table and chart below:
 
 **WHAT TIME DO THEY NORMALLY HAVE HIGH SALES**
+
 The results is shown in the pivot table and chart below:
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_dmuadDSbfq~2.png) 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_f9ZdBP5Usv~2.png) 
 
 **WHAT PRODUCT LINE HAVE THE HIGHEST PROFIT AND WHICH ONE IS THE LOWEST**
+
 The results is shown in the pivot table and chart below:
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~5.png) 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_3bCqpIFkmB~2.png) 
 
 **PERCENTAGE OF PAYMENT METHOD USED BY THE CUSTOMERS**
+
 The results is shown in the pivot table and chart below:
 
 **THE MONTH WITH THE MOST SALES**
+
 The results is shown in the pivot table and chart below:
 
 **GENDER BY THE COUNT OF PRODUCT LINE PURCHASED**
+
 The results is shown in the pivot table and chart below:
 
 **PRODUCT LINE WITH THE MOST TAX5% PAYMENT**
+
 The results is shown in the pivot table and chart below:
 
 **COUNT OF CUSTOMER TYPE**
+
 The results is shown in the pivot table and chart below:
 
 
