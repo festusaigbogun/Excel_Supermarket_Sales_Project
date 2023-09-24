@@ -7,7 +7,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 - Using Pivot tables
 - Using different charts for making visualization 
 - Making use of some Excel functions 
-- Identifing KPI's
+- Identifying KPI's
 - Making use of DAX formula to calculate new measure 
 
 ### BUSINESS QUESTIONS 
