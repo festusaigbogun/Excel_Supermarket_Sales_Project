@@ -34,6 +34,7 @@ I used the conditional formatting on the **RATING** column to give rating which 
 
 #### PIVOT TABLE
 Next I created pivot table where business objectives are being answered. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/nKF6mQO0lR~2.png) 
 
 
 I was also able to get the KPI's for this analysis using the Pivot table
