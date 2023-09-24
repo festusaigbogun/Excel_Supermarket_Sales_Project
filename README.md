@@ -39,7 +39,7 @@ By leveraging **Power Query Editor**, I successfully transformed the TIME column
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
 
 #### PIVOT TABLE
-Next, I generated a pivot table to address all the business objectives, and I effectively employed the DAX formula to compute the 'PROFIT' column by subtracting the sum of the 'TOTAL' column from the sum of the 'COGS' column.
+Next, I generated a pivot table to address all the business objectives, and I effectively employed the **DAX formula** to compute the 'PROFIT' column by subtracting the sum of the 'TOTAL' column from the sum of the 'COGS' column.
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/nKF6mQO0lR~2.png) 
 
 
