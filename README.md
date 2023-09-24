@@ -107,7 +107,43 @@ The results is shown in the pivot table and chart below:
 - There are more **Member** customer type compare to the **Normal** customer type.
 - Customer made use of the **Ewallet** payment method more than any other method.
 
-  ### RECOMMENDATION 
+  ### RECOMMENDATION
+Based on the insights from the dataset, I recommend the following business actions:
+
+1. **Focus on Naypyitaw and Supermarket C**:
+   - Allocate more resources and marketing efforts to Naypyitaw, where you have the highest sales and profits.
+   - Pay special attention to Supermarket C branch, as it is your top-performing branch. Consider replicating its successful strategies in other branches.
+
+2. **Optimize Product Lines**:
+   - Given that Food and beverages are your most profitable product line, consider expanding your offerings in this category and promoting related products.
+   - Reevaluate your Health and beauty product line to improve its profitability or consider reducing its prominence.
+
+3. **Time-Based Sales Strategy**:
+   - Since sales peak at 19:00 hours and drop by 20:00 hours, plan your inventory, staffing, and promotions to make the most of this prime selling time.
+
+4. **Seasonal Sales Strategy**:
+   - Capitalize on the high sales in January and March. Plan special promotions and marketing campaigns during these months.
+   - Offer promotions or loyalty programs in February to boost sales during the typically slower period.
+
+5. **Target Female Shoppers**:
+   - Given that females make more purchases in your stores, tailor your marketing efforts to cater to their preferences and needs.
+
+6. **Membership and Ewallet Promotion**:
+   - Since there are more Member customer types and Ewallet is the preferred payment method, incentivize customers to become members and use Ewallet by offering exclusive discounts or rewards.
+
+7. **Mandalay Branch Improvement**:
+   - Analyze the underperforming Mandalay branch to identify issues causing lower sales and profits. Implement strategies to improve its performance.
+
+8. **Continuous Data Analysis**:
+   - Keep analyzing your sales data regularly to identify trends and make data-driven decisions.
+
+9. **Customer Feedback**:
+   - Gather feedback from customers to understand their needs and preferences better, and use this information to improve your products and services.
+
+10. **Cost Management**:
+    - Continuously monitor costs and expenses to ensure that your profits remain healthy even in the most profitable areas.
+
+These recommendations should help you make informed decisions to enhance your business's overall performance.
 
 
 
