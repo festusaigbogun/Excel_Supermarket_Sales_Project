@@ -32,6 +32,8 @@ Now the dataset now  consists of the Invoice ID, Branch, City, Customer type, G
 I used the conditional formatting on the **RATING** column to give rating which is above 5.0 the green up arrow sign and the rating which is below 5.0 a red down arrow sign. While the Rating that is exactly 5.0, it was given a yellow straight arrow (but in this situation there is no rating having the exact 5.0 rating). 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_Sw7RvHzNCR~2.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_oMUeMfFe5u~2.png) 
 
+Using **Power Query Editor** I was also able to change the format of the Time column from **Decimal Number** to **Time** format. If this was not done Excel would take the time column as as normal decimal number values. I also change the Date column from **Date/Time** format to the normal **Date** format. With the power query editor I was able to check if all the columns were properly put In their right formats. 
+
 #### PIVOT TABLE
 Next I created pivot table where business objectives are being answered. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/nKF6mQO0lR~2.png) 
