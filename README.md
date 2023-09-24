@@ -67,10 +67,14 @@ The results is shown in the pivot table and chart below:
 **PERCENTAGE OF PAYMENT METHOD USED BY THE CUSTOMERS**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_dmuadDSbfq~3.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_wN6AJ9524D~2.png) 
 
 **THE MONTH WITH THE MOST SALES**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_RAJrnjZchO~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_19k3MnsAbc~2.png) 
 
 **GENDER BY THE COUNT OF PRODUCT LINE PURCHASED**
 
