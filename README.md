@@ -22,7 +22,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 - Count of Customer type
 
 ### DATA CLEANING 
-So after opening the file on a Excel worksheet I checked for if there was missing values or data errors on the dataset and discovered none. Then I proceeded with checking if there are duplicates values on the dataset, and also discovered none. 
+After opening the file in an Excel worksheet, I conducted an initial assessment to identify any missing values or data errors in the dataset, but none were found. Subsequently, I performed a check for duplicate values in the dataset and likewise found none.
 
 ### DATA ANALYSIS 
 Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively. 
