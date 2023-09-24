@@ -52,9 +52,13 @@ The results is shown in the pivot table and chart below:
 
 **WHAT TIME DO THEY NORMALLY HAVE HIGH SALES**
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_dmuadDSbfq~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_f9ZdBP5Usv~2.png) 
 
 **WHAT PRODUCT LINE HAVE THE HIGHEST PROFIT AND WHICH ONE IS THE LOWEST**
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~5.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_3bCqpIFkmB~2.png) 
 
 **PERCENTAGE OF PAYMENT METHOD USED BY THE CUSTOMERS**
 The results is shown in the pivot table and chart below:
