@@ -33,6 +33,9 @@ I used the conditional formatting on the **RATING** column to give rating which 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_Sw7RvHzNCR~2.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_oMUeMfFe5u~2.png) 
 
 Using **Power Query Editor** I was also able to change the format of the Time column from **Decimal Number** to **Time** format. If this was not done Excel would take the time column as as normal decimal number values. I also change the Date column from **Date/Time** format to the normal **Date** format. With the power query editor I was able to check if all the columns were properly put In their right formats. 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_uiwJlR3GU7~2.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_wNyh8CU57e~2.png) 
+
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png)  ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
 
 #### PIVOT TABLE
 Next I created pivot table where business objectives are being answered. I was also able to use the DAX formula to calculate the PROFIT column, by subtracting the sum of TOTAL column by the sum of COGS column. 
