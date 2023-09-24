@@ -26,8 +26,8 @@ So after opening the file on a Excel worksheet I checked for if there was missin
 
 ### DATA ANALYSIS 
 Using the **Ctrl+T** shortcut key i was able to create a table for the dataset. The advantage of creating a table is that it helps create a column header and filter, make the dataset virtually appealing, for easy sorting and aggregation and lastly, tables work well with Excel's data visualization tools, like pivot tables and pivot charts which allow one to analyze and present data more effectively. 
-
 Now the dataset now  consists of the Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quality, Tax5%, Total, Date, Time, Payment, Cogs, Gross margin percentage and Rating columns. 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_30TTRhz0MA.png) 
 
 I used the conditional formatting on the **RATING** column to give rating which is above 5.0 the green up arrow sign and the rating which is below 5.0 a red down arrow sign. While the Rating that is exactly 5.0, it was given a yellow straight arrow (but in this situation there is no rating having the exact 5.0 rating). 
 
