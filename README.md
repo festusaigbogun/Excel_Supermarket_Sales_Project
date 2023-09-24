@@ -75,7 +75,7 @@ The results is shown in the pivot table and chart below:
 - The month of **January** is the period with the highest sales followed by **March**, then the least month was **February**. 
 - Product line was purchased more by the females
 - There are more **Member** customer type compare to the **Normal** customer type.
-- Customer made use of the **Ewallet** payment method than any other method.
+- Customer made use of the **Ewallet** payment method more than any other method.
 
   ### RECOMMENDATION 
 
