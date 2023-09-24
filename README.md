@@ -104,14 +104,29 @@ The results is shown in the pivot table and chart below:
 
 
 #### INSIGHTS 
-- **Naypyitaw** have the most sales and also generate most profits, while **Mandalay** have the least sales and profits.
-- The product line **Food and beverages** had the most profits from all the products line available, while the least profitable product line are **Health and beauty**.
-- **Supermarket C branch** have the most sales and also generate most profits, while the **B branch** have the least sales and profits.
-- Sales are highest by the **19:00** hours, at least by the **20:00** hours.
-- The month of **January** is the period with the highest sales followed by **March**, then the least month was **February**. 
-- Product line was purchased more by the females
-- There are more **Member** customer type compare to the **Normal** customer type.
-- Customer made use of the **Ewallet** payment method more than any other method.
+1. **Sales and Profits by City:**
+   - Naypyitaw stands out as the city with the highest sales and profits, whereas Mandalay lags behind in both sales and profitability.
+
+2. **Profitable Product Line:**
+   - Among the various product lines, "Food and Beverages" emerges as the most profitable, while "Health and Beauty" ranks as the least profitable.
+
+3. **Sales and Profits by Supermarket Branch:**
+   - Supermarket Branch C leads in both sales and profitability, whereas Branch B reports the lowest figures for both sales and profits.
+
+4. **Peak Sales Hours:**
+   - Sales peak at 19:00 hours, with a noticeable decline by 20:00 hours.
+
+5. **Monthly Sales Performance:**
+   - January records the highest sales, closely followed by March, with February marking the month with the least sales.
+
+6. **Gender Preference for Product Line:**
+   - The female demographic displays a preference for purchasing products from the specified product line.
+
+7. **Customer Type Distribution:**
+   - Membership customers outnumber normal customers.
+
+8. **Preferred Payment Method:**
+   - Ewallet emerges as the preferred payment method, used more frequently than any other payment option.
 
   ### RECOMMENDATION
 Based on the insights from the dataset, I recommend the following business actions:
