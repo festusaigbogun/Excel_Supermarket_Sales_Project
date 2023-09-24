@@ -79,6 +79,8 @@ The results is shown in the pivot table and chart below:
 **GENDER BY THE COUNT OF PRODUCT LINE PURCHASED**
 
 The results is shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_nKNlXJWsyo~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_05FsHHKRSw~2.png) 
 
 **PRODUCT LINE WITH THE MOST TAX5% PAYMENT**
 
