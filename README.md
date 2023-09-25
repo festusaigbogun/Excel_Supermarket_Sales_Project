@@ -106,6 +106,8 @@ The results is shown in the pivot table and chart below:
 **PRODUCT LINE BY THE SUM OF COGS**
 
 The results in shown in the pivot table and chart below:
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_1SkOnw8RRR~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_xMdn7QDG36~2.png) 
 
 
 
