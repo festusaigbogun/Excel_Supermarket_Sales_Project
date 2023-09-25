@@ -52,7 +52,7 @@ I was also able to get the KPI's for this analysis using the Pivot table
 
 The results is shown in the pivot table and chart below:
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_TCgG5kTvRL~3.png) 
-![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_5Raj3NogAj~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_pMmqJRwwvb~2.png) 
 
 **WHAT BRANCH HAVE THE HIGHEST SALES AND PROFIT**
 
