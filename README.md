@@ -20,6 +20,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 - Gender by the count of Product line purchase 
 - PRODUCT LINE with the most TAX payment 
 - Count of Customer type
+- PRODUCT LINE by the sum of COGS
 
 ### DATA CLEANING 
 After opening the file in an Excel worksheet, I conducted an initial assessment to identify any missing values or data errors in the dataset, but none were found. Subsequently, I performed a check for duplicate values in the dataset and likewise found none.
@@ -101,6 +102,11 @@ The results is shown in the pivot table and chart below:
 The results is shown in the pivot table and chart below:
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_nKNlXJWsyo~4.png) 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_v1AxMJ2sXk~2.png) 
+
+**PRODUCT LINE BY THE SUM OF COGS**
+
+The results in shown in the pivot table and chart below:
+
 
 
 #### INSIGHTS 
