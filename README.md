@@ -1,5 +1,5 @@
 # INTRODUCTION  
-The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. **The data was gotten from kaggle**
+The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. The dataset consists of 1,001 rows. **The data was gotten from kaggle**
 
 ## SKILL DEMONSTRATED
 - Using Power query editor
@@ -40,6 +40,9 @@ By leveraging **Power Query Editor**, I successfully transformed the TIME column
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
 
 I employed the **VLOOKUP** function to retrieve the specified metrics below for each InvoiceID. Additionally, I leveraged data validation to create a convenient dropdown list for selecting Invoice IDs, eliminating the need for manual entry.
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_4SdNG5Ts2k~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_gCnjnRgcT8~2.png) 
+![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/fNYl8df9mu~2.png) 
 
 
 #### PIVOT TABLE
