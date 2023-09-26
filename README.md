@@ -6,7 +6,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 - Using Conditional Formatting 
 - Using Pivot tables
 - Using different charts for making visualization 
-- Making use of some Excel functions 
+- Use of VLOOKUP function 
 - Identifying KPI's
 - Making use of DAX formula to calculate new measure 
 
@@ -38,6 +38,9 @@ By leveraging **Power Query Editor**, I successfully transformed the TIME column
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_uiwJlR3GU7~2.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_wNyh8CU57e~2.png) 
 
 ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_CrRR5Ip2Wa~3.png) ![](https://github.com/festusaigbogun/Excel_Supermarket_Sales_Project/blob/main/Images/EXCEL_bWTXkcW2ne~2.png) 
+
+I employed the **VLOOKUP** function to retrieve the specified metrics below for each InvoiceID. Additionally, I leveraged data validation to create a convenient dropdown list for selecting Invoice IDs, eliminating the need for manual entry.
+
 
 #### PIVOT TABLE
 Next, I generated a pivot table to address all the business objectives, and I effectively employed the **DAX formula** to compute the 'PROFIT' column by subtracting the sum of the 'TOTAL' column from the sum of the 'COGS' column.
